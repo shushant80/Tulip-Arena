@@ -2135,7 +2135,7 @@ label {
       .customer-img .customar-img2 {
         display: none; } }
   .customer-img::before {
-    background-image: url(../img/customer/customar_bg.png);
+    background-image: url(customer/customar_bg.png);
     position: absolute;
     content: "";
     top: -59px;
@@ -2338,7 +2338,7 @@ label {
       content: "";
       top: 0;
       bottom: 0;
-      background-image: url(../img/gallery/IMG_5081.JPG);
+      background-image: url(gallery/IMG_5081.JPG);
       width: 50%;
       border-radius: 0 5px 0 0;
       background-size: cover;
@@ -2354,7 +2354,7 @@ label {
       content: "";
       top: 0;
       bottom: 0;
-      background-image: url(../img/gallery/IMG-20211206-WA0007.jpg);
+      background-image: url(gallery/IMG-20211206-WA0007.jpg);
       width: 50%;
       border-radius: 0 0 0 5px;
       background-repeat: no-repeat;
@@ -2370,7 +2370,7 @@ label {
       content: "";
       top: 0;
       bottom: 0;
-      background-image: url(../img/gallery/Gym1.jpg);
+      background-image: url(gallery/Gym1.jpg);
       width: 50%;
       border-radius: 0 5px 0 0;
       background-size: cover;
@@ -3657,13 +3657,13 @@ h3 {
   background: #f5f5f5; }
 
 .bg-img-1 {
-  background-image: url(../img/slider/slider-img-1.jpg); }
+  background-image: url(slider/slider-img-1.jpg); }
 
 .bg-img-2 {
-  background-image: url(../img/background-img/bg-img-2.jpg); }
+  background-image: url(background-img/bg-img-2.jpg); }
 
 .cta-bg-1 {
-  background-image: url(../img/background-img/bg-img-3.jpg); }
+  background-image: url(background-img/bg-img-3.jpg); }
 
 .overlay {
   position: relative;
@@ -3865,13 +3865,13 @@ h3 {
       background-color: #222222; }
 
 .breadcam_bg {
-  background-image: url(../img/banner/bradcam.png); }
+  background-image: url(banner/bradcam.png); }
 
 .breadcam_bg_1 {
-  background-image: url(../img/banner/bradcam2.png); }
+  background-image: url(banner/bradcam2.png); }
 
 .breadcam_bg_2 {
-  background-image: url(../img/banner/bradcam3.png); }
+  background-image: url(img/banner/bradcam3.png); }
 
 .bradcam_area {
   background-size: cover;
@@ -4671,7 +4671,7 @@ h6 {
       cursor: pointer;
       border: 1px solid #f1f1f1; }
     .primary-checkbox input:checked + label {
-      background: url(../img/elements/primary-check.png) no-repeat center center/cover;
+      background: url(elements/primary-check.png) no-repeat center center/cover;
       border: none; }
 
 .confirm-checkbox {
@@ -4702,7 +4702,7 @@ h6 {
       cursor: pointer;
       border: 1px solid #f1f1f1; }
     .confirm-checkbox input:checked + label {
-      background: url(../img/elements/success-check.png) no-repeat center center/cover;
+      background: url(elements/success-check.png) no-repeat center center/cover;
       border: none; }
 
 .disabled-checkbox {
@@ -4736,7 +4736,7 @@ h6 {
       cursor: not-allowed;
       z-index: 3; }
     .disabled-checkbox input:checked + label {
-      background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
+      background: url(elements/disabled-check.png) no-repeat center center/cover;
       border: none; }
 
 .primary-radio {
@@ -4767,7 +4767,7 @@ h6 {
       cursor: pointer;
       border: 1px solid #f1f1f1; }
     .primary-radio input:checked + label {
-      background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
+      background: url(elements/primary-radio.png) no-repeat center center/cover;
       border: none; }
 
 .confirm-radio {
@@ -4798,7 +4798,7 @@ h6 {
       cursor: pointer;
       border: 1px solid #f1f1f1; }
     .confirm-radio input:checked + label {
-      background: url(../img/elements/success-radio.png) no-repeat center center/cover;
+      background: url(elements/success-radio.png) no-repeat center center/cover;
       border: none; }
 
 .disabled-radio {
@@ -4832,7 +4832,7 @@ h6 {
       cursor: not-allowed;
       z-index: 3; }
     .disabled-radio input:checked + label {
-      background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
+      background: url(elements/disabled-radio.png) no-repeat center center/cover;
       border: none; }
 
 .default-select {
