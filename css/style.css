@@ -2338,7 +2338,7 @@ label {
       content: "";
       top: 0;
       bottom: 0;
-      background-image: url(.gallery/IMG_5081.JPG);
+      background-image: url(IMG_5081.JPG);
       width: 50%;
       border-radius: 0 5px 0 0;
       background-size: cover;
@@ -2354,7 +2354,7 @@ label {
       content: "";
       top: 0;
       bottom: 0;
-      background-image: url(.gallery/IMG-20211206-WA0007.jpg);
+      background-image: url(IMG-20211206-WA0007.jpg);
       width: 50%;
       border-radius: 0 0 0 5px;
       background-repeat: no-repeat;
@@ -2370,7 +2370,7 @@ label {
       content: "";
       top: 0;
       bottom: 0;
-      background-image: url(.gallery/Gym1.jpg);
+      background-image: url(Gym1.jpg);
       width: 50%;
       border-radius: 0 5px 0 0;
       background-size: cover;
