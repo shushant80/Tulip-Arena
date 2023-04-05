@@ -1582,9 +1582,8 @@ label {
   margin-right: 6rem;
 }
 .customar-padding {
-  bottom: -45px;
-  padding-top: 160px;
-  padding-bottom: 93px; }
+  bottom: -20px;
+  padding-top: 160px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
     .customar-padding {
       padding-top: 160px;
