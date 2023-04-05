@@ -1582,6 +1582,7 @@ label {
   margin-right: 6rem;
 }
 .customar-padding {
+  bottom: -5rem;	
   padding-top: 160px;
   padding-bottom: 93px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -2340,8 +2341,7 @@ label {
       bottom: 0;
       background-image: url(../rooms/IMG_4791.JPG);
       width: 50%;
-      margin-top: 15rem;
-      margin-bottom: 15rem;
+      margin-bottom: 4rem;
       border-radius: 0 0 0 5px;
       background-repeat: no-repeat;
       background-size: cover; }
